@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "93210286347",
+    "firebase_url": "https://maps-49f04.firebaseio.com",
+    "project_id": "maps-49f04",
+    "storage_bucket": "maps-49f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93210286347:android:18b2dccb9061218a1c2a0e",
+        "android_client_info": {
+          "package_name": "com.sarita.flutterapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93210286347-9nm6b15pmseonj47ofn7silg6qkqde3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarita.flutterapp2",
+            "certificate_hash": "1124d84221dfda624d6ab0424f19e663a5b015e3"
+          }
+        },
+        {
+          "client_id": "93210286347-37nuaaas86mbdqsp97pjgjc2h908pu1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEqNOZoQxPtZt7qudchuDDuL0MOrZku8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93210286347-37nuaaas86mbdqsp97pjgjc2h908pu1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
